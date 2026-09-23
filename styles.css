@@ -6,11 +6,11 @@
 }
 
 .about-team{
-    color:rgb(82, 81, 81)
+    color:rgb(0, 0, 0)
 }
 
 .authors{
-    background-color: #dbe3e7;
+    background-color: #f3a2a2;
 }
 
 .body{
@@ -22,7 +22,7 @@
 }
 
 .footer{                
-    background-color: #023E8A;
+    background-color: #f11e07;
 }
 
 .icon-white{            /* Arrow icon at bottom of page */
@@ -30,7 +30,7 @@
 }
 
 .nav-background-color{   /* navbar background color */
-    background-color: #023E8A;
+    background-color: #f11e07;
 }
 
 .nav-menu-item{               /* navbar link text properties */
@@ -40,7 +40,7 @@
 }
 
 .overview{
-    background-color: #dbe3e7;
+    background-color: #f3a2a2;
 }
 
 .overview-left-padding{
@@ -52,12 +52,12 @@
 }
 
 .procedure{
-    background-color: #dbe3e7;
+    background-color: #f3a2a2;
     padding: 1px;
 }
 
 .showcase{
-    background-color: #8fa3ab; /*#0096c7*/
+    background-color: #000000; /*#0096c7*/
 }
 
 /* ----------------- ID CSS ----------------- */
