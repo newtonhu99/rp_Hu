@@ -10,11 +10,11 @@
 }
 
 .authors{
-    background-color: #f3a2a2;
+    background-color: #f9f9f9;
 }
 
 .body{
-    background-color: rgb(90, 92, 92);
+    background-color: rgb(227, 123, 123);
 }
 
 .chartjs-sample{
@@ -40,7 +40,7 @@
 }
 
 .overview{
-    background-color: #f3a2a2;
+    background-color: #ffffff;
 }
 
 .overview-left-padding{
@@ -52,12 +52,13 @@
 }
 
 .procedure{
-    background-color: #f3a2a2;
+    background-color: #fffefe;
     padding: 1px;
 }
 
 .showcase{
     background-color: #000000; /*#0096c7*/
+    
 }
 
 /* ----------------- ID CSS ----------------- */
@@ -96,4 +97,15 @@
 .hover-underline-animation:hover:after {
     transform: scaleX(1);
     /*transform-origin: bottom left;*/
+}
+.display-4{
+    font-size: 2.8rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.display-5{
+    font-size: 1.3rem;
+    font-family: Garamond, Georgia, Times, serif;
+}
+.procedure-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
