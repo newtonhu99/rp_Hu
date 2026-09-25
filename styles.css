@@ -166,3 +166,7 @@ ul {
 }
 .procedure{
     font-family: Verdana, Geneva, Tahoma, sans-serif, Georgia, Times, serif;
+}
+.table:hover {
+    transform: scale(1.05);
+}
