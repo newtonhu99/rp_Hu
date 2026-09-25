@@ -109,3 +109,60 @@
 .procedure-title{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.overview-font{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Georgia, Times, serif;
+}
+.card {
+  
+  background-color: #ffffff; 
+  color: rgb(0, 0, 0);
+  
+
+  
+  transition: background-color 0.5s ease; 
+  transition: color 0.5s ease; 
+}
+
+.card:hover {
+  /* 3. Define the target color on hover */
+  background-color: #ff8400; 
+  color: white;
+}
+.col-sm-8 {
+  
+  background-color: #ffffff; 
+  color: rgb(0, 0, 0);
+  
+
+  
+  transition: background-color 0.5s ease; 
+  transition: color 0.5s ease; 
+}
+
+.col-sm-8:hover {
+  /* 3. Define the target color on hover */
+  background-color: #ff8400; 
+  color: white;
+}
+.col-sm-4 {
+  
+  background-color: #ffffff; 
+  color: rgb(0, 0, 0);
+  
+
+  
+  transition: background-color 0.5s ease; 
+  
+}
+
+.col-sm-4:hover {
+  /* 3. Define the target color on hover */
+  background-color: #1a7c0b; 
+  
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+.procedure{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Georgia, Times, serif;
