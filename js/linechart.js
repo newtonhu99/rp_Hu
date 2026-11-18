@@ -4,7 +4,7 @@
 */
 
 async function getData() {
-    const response = await fetch('../data/rpdata.csv');
+    const response = await fetch('data/rpdata.csv');
     const data = await response.text();
     //console.log(data);
 
