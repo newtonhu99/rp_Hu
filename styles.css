@@ -173,3 +173,18 @@ ul {
 .table:hover {
     transform: scale(1.05);
 }
+
+
+#chart-wrapper{
+    margin: auto;
+    padding: 10px;
+    /* If nesting a chart's container within another container, remove the 
+       height and width values.  The outer container will control the dimensions */ 
+    /*height: 40vh; */
+    max-width: 100%;
+    min-height: 800px;
+    background-color: whitesmoke !important;
+    justify-content: center;
+    align-items: center;  
+}
+
